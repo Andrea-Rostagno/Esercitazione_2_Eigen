@@ -29,7 +29,6 @@ VectorXd lu_solution(MatrixXd A,VectorXd b){
 
 int main()
 {
-    setlocale(LC_ALL,"C");
 
     //sistema 1:
     Matrix2d A;
